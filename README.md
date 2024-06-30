@@ -1,4 +1,4 @@
 # new
 This is my first repository
 <br>
-author- ayush
+author- ayush kumar
